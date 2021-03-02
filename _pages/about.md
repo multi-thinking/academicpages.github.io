@@ -36,18 +36,7 @@ redirect_from:
 ======
 将思路用文字、脑图或者其他形式记录下来
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
 参考资料
 ======
 1. [为什么要写Blog？](http://www.ruanyifeng.com/blog/2006/12/why_i_keep_blogging.html)
-2. [为什么你应该（从现在开始就）写博客](http://mindhacks.cn/2009/02/15/why-you-should-start-blogging-now/) 
-
-{% plantuml %}
-Alice -> Bob: Authentication Request
-Bob --> Alice: Authentication Response
-
-Alice -> Bob: Another authentication Request
-Alice <-- Bob: another authentication Response
-{% endplantuml %}
+2. [为什么你应该（从现在开始就）写博客](http://mindhacks.cn/2009/02/15/why-you-should-start-blogging-now/)
